@@ -1,6 +1,12 @@
 # VCopenGL
 Project for Visual Computing 4th Semester h-da
 
+## What it does
+
+Several Robots walk around inside a box.  
+When a robot touches a wall it will walk in a different direction.  
+When two robots touch they start waving for a short time, then walk away from each other.
+
 ## Installation
 
 ### Visual Studio
